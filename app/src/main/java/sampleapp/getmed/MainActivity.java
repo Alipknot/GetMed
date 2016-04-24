@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 try {
                     HttpHandler sh = new HttpHandler(getApplicationContext());
-                    String login = sh.get("http://crevent.cu.cc/CreApp/Login.php?user=" + usuario + "&password=" + password);
+                    String login = sh.get("http://192.168.2.3/getmed/Login.php?user=" + usuario + "&password=" + password);
 
 
                     switch (login) {

@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">GetMed</string>
     <string name="registitle">Ingresar</string>
+    <string name="navigation_subheader">Get Med</string>
+    <string name="navigation_sub_item_1">Inicio</string>
+    <string name="navigation_sub_item_2">Cerrar sesión</string>
+    <string name="action_settings">Nuevo</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
 </resources>

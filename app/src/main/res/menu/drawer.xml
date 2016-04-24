@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="@string/navigation_subheader">
+        <menu>
+            <item
+                android:id="@+id/navigation_sub_item_1"
+                android:icon="@drawable/abc_ic_go_search_api_mtrl_alpha"
+                android:title="@string/navigation_sub_item_1"/>
+            <item
+                android:id="@+id/navigation_sub_item_2"
+                android:icon="@drawable/abc_ic_go_search_api_mtrl_alpha"
+                android:title="@string/navigation_sub_item_2"/>
+        </menu>
+    </item>
+</menu>
